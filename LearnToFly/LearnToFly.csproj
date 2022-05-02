@@ -98,6 +98,7 @@
     <Compile Include="LeetCode\MiddleOfLL.cs" />
     <Compile Include="LeetCode\Matrix.cs" />
     <Compile Include="LinkedList\PalindromeLL.cs" />
+    <Compile Include="LeetCode\TwoSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="MemoryCollection\" />

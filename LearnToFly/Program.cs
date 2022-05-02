@@ -12,24 +12,25 @@ namespace LearnToFly
     {
         public static void Main(string[] args)
         {
+            TwoSum t = new TwoSum();
             // Checking if git new branch is working.
 
-            List<int> li = new List<int>();
-            Stack<int> st = new Stack<int>();
-            Queue<int> qu = new Queue<int>();
+            //List<int> li = new List<int>();
+            //Stack<int> st = new Stack<int>();
+            //Queue<int> qu = new Queue<int>();
 
-            for(int i =0; i< 5; i++)
-            {
-                li.Add(i);
-                st.Push(i);
-                qu.Enqueue(i);
-            }
-            for(int j = 0; j< 3; j++)
-            {
-                li.Remove(j);
-                st.Pop();
-                qu.Dequeue();
-            }
+            //for(int i =0; i< 5; i++)
+            //{
+            //    li.Add(i);
+            //    st.Push(i);
+            //    qu.Enqueue(i);
+            //}
+            //for(int j = 0; j< 3; j++)
+            //{
+            //    li.Remove(j);
+            //    st.Pop();
+            //    qu.Dequeue();
+            //}
 
 
             Console.WriteLine("Hello World!");
