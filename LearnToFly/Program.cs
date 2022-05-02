@@ -12,9 +12,8 @@ namespace LearnToFly
     {
         public static void Main(string[] args)
         {
-            int[] arr = { 1, 2, 3, 4 };
-            
-            Console.WriteLine(arr.Sum());
+            // Checking if git new branch is working.
+
             List<int> li = new List<int>();
             Stack<int> st = new Stack<int>();
             Queue<int> qu = new Queue<int>();
